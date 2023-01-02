@@ -1,0 +1,77 @@
+<component name="ArtifactManager">
+  <artifact name="Save">
+    <output-path>$PROJECT_DIR$/out/artifacts/Save</output-path>
+    <root id="root">
+      <element id="archive" name="SaveHalfEtape2.zip">
+        <element id="directory" name="MyFolder">
+          <element id="directory" name="src">
+            <element id="dir-copy" path="$PROJECT_DIR$/src" />
+          </element>
+        </element>
+      </element>
+      <element id="archive" name="Etape2.zip">
+        <element id="directory" name="MyFolder">
+          <element id="directory" name="src">
+            <element id="dir-copy" path="$PROJECT_DIR$/src" />
+          </element>
+        </element>
+      </element>
+      <element id="archive" name="Etape3.zip">
+        <element id="directory" name="MyFolder">
+          <element id="directory" name="src">
+            <element id="dir-copy" path="$PROJECT_DIR$/src" />
+          </element>
+        </element>
+      </element>
+      <element id="archive" name="Etape4.zip">
+        <element id="directory" name="MyFolder">
+          <element id="directory" name="src">
+            <element id="dir-copy" path="$PROJECT_DIR$/src" />
+          </element>
+        </element>
+      </element>
+      <element id="archive" name="Etape5(2).zip">
+        <element id="directory" name="MyFolder">
+          <element id="directory" name="src">
+            <element id="dir-copy" path="$PROJECT_DIR$/src" />
+          </element>
+        </element>
+      </element>
+      <element id="archive" name="RenduInterm.zip">
+        <element id="directory" name="MyFolder">
+          <element id="directory" name="src">
+            <element id="dir-copy" path="$PROJECT_DIR$/src" />
+          </element>
+        </element>
+      </element>
+      <element id="archive" name="RenduIntermediaire.zip">
+        <element id="directory" name="MyFolder">
+          <element id="directory" name="src">
+            <element id="dir-copy" path="$PROJECT_DIR$/src" />
+          </element>
+        </element>
+      </element>
+      <element id="archive" name="Etape8.zip">
+        <element id="directory" name="MyFolder">
+          <element id="directory" name="src">
+            <element id="dir-copy" path="$PROJECT_DIR$/src" />
+          </element>
+        </element>
+      </element>
+      <element id="archive" name="Etape11.zip">
+        <element id="directory" name="MyFolder">
+          <element id="directory" name="src">
+            <element id="dir-copy" path="$PROJECT_DIR$/src" />
+          </element>
+        </element>
+      </element>
+      <element id="archive" name="RenduFinal.zip">
+        <element id="directory" name="MyFolder">
+          <element id="directory" name="src">
+            <element id="dir-copy" path="$PROJECT_DIR$/src" />
+          </element>
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
